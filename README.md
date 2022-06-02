@@ -2,6 +2,7 @@
 
 (X) Display the location for each move in the format (col, row) in the move history list.
 (V) Bold the currently selected item in the move list.
+(V) Re-write every class in a function component.
 (X) Rewrite Board to use two loops to make the squares instead of hardcoding them.
 (X) Add a toggle button that lets you sort the moves in either ascending or descending order.
 (X) When someone wins, highlight the three squares that caused the win.
